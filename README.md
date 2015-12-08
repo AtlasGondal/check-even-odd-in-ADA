@@ -1,2 +1,2 @@
-# check_even_odd_in_ADA
-This small program will get a number as input from users and will tell; it's even or odd!
+# Check Even/Odd in Ada Language
+This is very simple program which will get a number from users and will output; either, it's even or odd!
